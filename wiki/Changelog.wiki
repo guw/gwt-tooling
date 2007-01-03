@@ -4,16 +4,13 @@
 = Changelog =
 
 == 1.3 BETA ==
-  * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.3&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.3 BETA]
+  * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.3&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.3]
 
-== 1.2 BETA 1 ==
-  * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.2.1&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.2 BETA 1]
+== 1.2 BETA ==
+  * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.2&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.2]
 
 == 1.1 BETA 3 ==
-  * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.1.3&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.1 BETA 3]
-
-== 1.1 BETA 2 ==
-  * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.1.2&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.1 BETA 2]
+  * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.1&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.1 BETA 2 & 3]
 
 == 1.1 BETA 1 ==
   * first release
