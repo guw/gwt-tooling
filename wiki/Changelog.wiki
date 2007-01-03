@@ -1,8 +1,8 @@
 #summary Log of changes between releases.
+#labels Featured
 
 = Changelog =
 
 == 1.3 BETA ==
   * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.3&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of closed issues]
-
 
