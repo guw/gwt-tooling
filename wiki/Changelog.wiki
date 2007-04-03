@@ -8,7 +8,8 @@
   * The style option is no longer set on compile & publish which allows to use the GWT compiler default
   * Generated resources during compile & publish are now marked as derived and read-only resources in the target folder will be asked to become writable
   * Updated to Eclipse 3.3 M6 (we use some internal API... bad, bad, bad, I know ... but it makes life soo easy)
-  * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.3&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.3.2]
+  * Line endigs of generated ".cache.html/xml" and ".nocache.html" files are now automatically converted to the configured line ending style during compile & publish (note, this is a workaround for a problem in the GWT compiler)
+  * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.3.2&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.3.2]
 
 == 1.3 BETA ==
   * [http://code.google.com/p/gwt-tooling/issues/list?can=1&q=ResolvedIn%3A1.3&sort=&colspec=ID+Type+Status+ResolvedIn+Owner+Summary&nobtn=Update list of issues closed in 1.3]
