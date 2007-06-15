@@ -3,6 +3,9 @@
 
 = Changelog =
 
+== 1.3.4 ==
+  * Fixed GWT compiler output parsing to generate Eclipse error markers when using GWT 1.4
+
 == 1.3.3 ==
   * GWT compiler output is now shown in the Eclipse console
 
