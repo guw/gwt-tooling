@@ -4,8 +4,8 @@
 = Changelog =
 
 == 1.4.1 ==
+  * Added support for Eclipse 3.4M5 and Webtools 3.0M5 (addresses [http://code.google.com/p/gwt-tooling/issues/detail?id=47 issue 47])
   * Added option to project properties to enable compile of GWT modules together with Eclipse Build (addresses [http://code.google.com/p/gwt-tooling/issues/detail?id=39 issue 39])
-  * Added support for Eclipse 3.4 and Webtools 3.0 (addresses [http://code.google.com/p/gwt-tooling/issues/detail?id=47 issue 47])
   * Preferred execution environment is now Java 6, i.e. Eclipse should be started using Java 6. Note, this is not related to the JRE/JDK you are using when developing GWT modules.
 
 == 1.4.0 ==
