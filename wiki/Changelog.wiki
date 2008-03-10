@@ -9,6 +9,7 @@
   * When deploying GWT modules in web projects only the module folder is now deployed instead of the whole GWT compiler output directory (fixes [http://code.google.com/p/gwt-tooling/issues/detail?id=44 issue 44])
   * Added option to project properties to enable compile of GWT modules together with Eclipse Build (addresses [http://code.google.com/p/gwt-tooling/issues/detail?id=39 issue 39])
   * Added support for Eclipse 3.4 and Webtools 3.0 (addresses [http://code.google.com/p/gwt-tooling/issues/detail?id=47 issue 47])
+  * Preferred execution environment is now Java 6, i.e. Eclipse should be started using Java 6. Note, this is not related to the JRE/JDK you are using when developing GWT modules.
 
 == 1.3.4 ==
   * Fixed GWT compiler output parsing to generate Eclipse error markers when using GWT 1.4
