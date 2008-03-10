@@ -3,7 +3,7 @@
 
 = Changelog =
 
-== 1.4.0 ==
+== 1.4.0 (not yet released) ==
   * Added support for using gwt-dev-mac.jar on MacOSX as well as using "-!XstartOnFirstThread" when launching the GWT Browser (fixes [http://code.google.com/p/gwt-tooling/issues/detail?id=32 issue 32])
   * Additional VM arguments can now be specified on a per project basis (fixes [http://code.google.com/p/gwt-tooling/issues/detail?id=46 issue 46])
   * When deploying GWT modules in web projects only the module folder is now deployed instead of the whole GWT compiler output directory (fixes [http://code.google.com/p/gwt-tooling/issues/detail?id=44 issue 44])
