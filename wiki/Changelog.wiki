@@ -3,6 +3,11 @@
 
 = Changelog =
 
+== 1.5.0 ==
+  * Went back to Java 5 execution environment with 1.5 compliance level to support MacOSX (fixed [http://code.google.com/p/gwt-tooling/issues/detail?id=48 issue 48])
+  * Eclipse 3.4 RC3 is now required
+  * Verified basic functionality with GWT 1.5.0 RC1
+
 == 1.4.1 ==
   * Added support for Eclipse 3.4M5 and Webtools 3.0M5 (addresses [http://code.google.com/p/gwt-tooling/issues/detail?id=47 issue 47])
   * Added option to project properties to enable compile of GWT modules together with Eclipse Build (addresses [http://code.google.com/p/gwt-tooling/issues/detail?id=39 issue 39])
