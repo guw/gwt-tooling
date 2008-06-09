@@ -3,6 +3,9 @@
 
 = Changelog =
 
+== 1.5.1 ==
+  * Added support for Java 5 generics when generating async service stubs interface ([http://code.google.com/p/gwt-tooling/issues/detail?id=53 issue 53])
+
 == 1.5.0 ==
   * Went back to Java 5 execution environment with 1.5 compliance level to support MacOSX (fixed [http://code.google.com/p/gwt-tooling/issues/detail?id=48 issue 48])
   * Eclipse 3.4 RC3 is now required
