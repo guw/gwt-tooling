@@ -1,7 +1,14 @@
 #summary Log of changes between releases.
 #labels Featured
 
+Note, please use the project update feed to stay on track with updates.
+
 = Changelog =
+
+== 1.5.7 ==
+  * Added support for Eclipse 3.5
+  * Added an Ant task that can be integrated into Ant scripts to compile modules during project build (requires to run within the same VM as Eclipse)
+  * Fixed a few issues since 1.5.1
 
 == 1.5.1 ==
   * Added support for Java 5 generics when generating async service stubs interface ([http://code.google.com/p/gwt-tooling/issues/detail?id=53 issue 53])
